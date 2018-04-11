@@ -1,0 +1,39 @@
+app.icon=branding/core/core.jar/org/netbeans/core/startup/frame48.gif
+app.name=mnotepad
+app.title=Music NotePad
+branding.token=${app.name}
+disabled.clusters=\
+    enterprise3,\
+    harness
+modules=\
+    ${project.org.netbeans.modules.musician}:\
+    ${project.org.musician.api}:\
+    ${project.org.jfugue.keyboard}:\
+    ${project.org.jfugue}:\
+    ${project.org.jfugue.guitar}:\
+    ${project.org.jfugue.composition}:\
+    ${project.org.pushingpixels.flamingo}:\
+    ${project.org.jfugue.syntax}:\
+    ${project.org.jfugue.instruments}:\
+    ${project.org.netbeans.modules.musician.resources}:\
+    ${project.com.pinkmatter.modules.flamingo}:\
+    ${project.org.jfxrt}:\
+    ${project.org.jfugue.newcomposition}:\
+    ${project.org.jfugue.score}:\
+    ${project.org.jfx.browser}
+project.com.pinkmatter.modules.flamingo=flamingo-integration
+project.org.jfugue=JFugue
+project.org.jfugue.composition=Composition
+project.org.jfugue.guitar=Guitar
+project.org.jfugue.instruments=Instruments
+project.org.jfugue.keyboard=Keyboard
+project.org.jfugue.newcomposition=Core - New Composition Wizard
+project.org.jfugue.score=Core - Score
+project.org.jfugue.syntax=Syntax
+project.org.jfx.browser=../../jfxbrowser
+project.org.jfxrt=Libs - JavaFX Runtime
+project.org.musician.api=MusicianAPI
+project.org.netbeans.modules.musician=jfugueFunctionality/Musician
+
+project.org.netbeans.modules.musician.resources=Resources
+project.org.pushingpixels.flamingo=flamingo

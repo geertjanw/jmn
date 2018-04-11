@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/Key.java
+END
+KeyboardListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/KeyboardListener.java
+END
+keyboard-16.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nbjfuguesupport~svn/!svn/ver/225/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/keyboard-16.png
+END
+ValeriKeyboardTopComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/ValeriKeyboardTopComponent.java
+END
+Piano.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/Piano.java
+END
+ValeriKeyboardTopComponent.form
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/nbjfuguesupport~svn/!svn/ver/225/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/ValeriKeyboardTopComponent.form
+END
+InstrumentMidiReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/nbjfuguesupport~svn/!svn/ver/236/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/InstrumentMidiReceiver.java
+END
+Piano.form
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/Piano.form
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/nbjfuguesupport~svn/!svn/ver/225/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/layer.xml
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Keyboard/src/org/jfugue/keyboard/Bundle.properties
+END

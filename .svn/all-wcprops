@@ -1,0 +1,27 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 34
+/svn/nbjfuguesupport~svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/nbjfuguesupport~svn/!svn/ver/271/branches/NB70_PORT_BRANCH
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nbjfuguesupport~svn/!svn/ver/220/branches/NB70_PORT_BRANCH/index.html
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nbjfuguesupport~svn/!svn/ver/232/branches/NB70_PORT_BRANCH/build.xml
+END
+platform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nbjfuguesupport~svn/!svn/ver/220/branches/NB70_PORT_BRANCH/platform.xml
+END

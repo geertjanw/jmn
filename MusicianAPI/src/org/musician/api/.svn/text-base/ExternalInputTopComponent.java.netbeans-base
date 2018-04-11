@@ -1,0 +1,25 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package org.musician.api;
+
+import org.openide.windows.TopComponent;
+
+/**
+ *
+ * @author Demo
+ */
+public abstract class ExternalInputTopComponent extends TopComponent {
+
+    public abstract void programChange(int program);
+
+    public abstract void setScoreTopComponent(TopComponent scoreTC);
+
+    public abstract ExternalInputTopComponent findInstance();
+    
+    public abstract void noteOn(int knum);
+
+    public abstract void noteOff(int knum);
+    
+}

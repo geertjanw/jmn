@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.jfugue.syntax
+OpenIDE-Module-Localizing-Bundle: org/jfugue/syntax/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

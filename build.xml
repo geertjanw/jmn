@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file. See harness/README in the NetBeans platform -->
+<!-- for some information on what you could do (e.g. targets to override). -->
+<!-- If you delete this file and reopen the project it will be recreated. -->
+<project name="MusicianApplication" basedir=".">
+    <description>Builds the module suite MusicianApplication.</description>
+   
+    <!-- 
+         sets up the platform to build against, if necessary; this must come 
+         before the import of the build-impl.xml since the latter file enforces 
+         that this platform actually exists.
+    <ant antfile="platform.xml" target="unpack-platform"/>
+    -->
+
+    <import file="nbproject/build-impl.xml"/>
+</project>

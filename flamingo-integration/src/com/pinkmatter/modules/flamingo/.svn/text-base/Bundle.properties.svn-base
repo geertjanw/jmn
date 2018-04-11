@@ -1,0 +1,7 @@
+OpenIDE-Module-Display-Category=RCP Platform
+OpenIDE-Module-Name=Libs - Flamingo Integration
+LBL_AppMenuTitle=Application Menu
+HINT_AppMenu=Click here to save, print or access other important features of the Netbeans Platform
+HINT_AppMenuHelp=Click on the help button to get more help
+
+OpenIDE-Module-Short-Description=Allows declarative registration of Flamingo ribbon components

@@ -1,0 +1,182 @@
+10
+
+dir
+271
+https://svn.java.net/svn/nbjfuguesupport~svn/branches/NB70_PORT_BRANCH
+https://svn.java.net/svn/nbjfuguesupport~svn
+
+
+
+2012-09-07T09:20:37.171823Z
+271
+geertjan
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4f973ad9-dc06-eb43-a766-d68bbfeca6d7
+
+
+
+
+
+
+0
+
+Composition
+dir
+
+Core - New Composition Wizard
+dir
+
+Guitar
+dir
+
+Instruments
+dir
+
+JFugue
+dir
+
+Keyboard
+dir
+
+MusicianAPI
+dir
+
+Resources
+dir
+
+Syntax
+dir
+
+branding
+dir
+
+build.xml
+file
+
+
+
+
+2012-09-07T09:34:03.953000Z
+42979aab547a960547e829cb6a4e19fa
+2010-12-15T06:56:04.000000Z
+232
+geertjan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+748
+
+flamingo
+dir
+
+flamingo-integration
+dir
+
+index.html
+file
+
+
+
+
+2012-02-22T13:46:19.545000Z
+97b44929e1e08c13ab7dcf3d1fe868ad
+2006-07-13T11:19:03.000000Z
+8
+geertjan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+216
+
+jfugueFunctionality
+dir
+
+nbproject
+dir
+
+platform.xml
+file
+
+
+
+
+2012-02-22T13:46:14.553000Z
+69a718d0d508b711e4a47b2347c614bd
+2008-09-12T14:22:54.000000Z
+218
+tomwheeler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2290
+
+www
+dir
+

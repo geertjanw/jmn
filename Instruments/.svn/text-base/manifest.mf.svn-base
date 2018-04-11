@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.jfugue.instruments
+OpenIDE-Module-Localizing-Bundle: org/jfugue/instruments/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

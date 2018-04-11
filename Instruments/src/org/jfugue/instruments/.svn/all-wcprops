@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments
+END
+MIDIInstruments.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/MIDIInstruments.java
+END
+InstrumentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/InstrumentNode.java
+END
+InstrumentsTopComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/InstrumentsTopComponent.java
+END
+MIDIInstrumentCategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/MIDIInstrumentCategories.java
+END
+RootNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/RootNode.java
+END
+InstrumentsTopComponent.form
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/InstrumentsTopComponent.form
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/nbjfuguesupport~svn/!svn/ver/265/branches/NB70_PORT_BRANCH/Instruments/src/org/jfugue/instruments/Bundle.properties
+END

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="9">
+        <file>
+            <url>src/org/jfugue/score/ScoreTopComponent.java</url>
+            <bookmark id="8">
+                <name> declarations</name>
+                <line>44</line>
+                <key/>
+            </bookmark>
+            <bookmark id="9">
+                <name/>
+                <line>699</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name> resultChanged</name>
+                <line>705</line>
+                <key/>
+            </bookmark>
+            <bookmark id="7">
+                <name> lookups declarated</name>
+                <line>745</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/Geertjan/Documents/NetBeansProjects/jfg70/NB70_PORT_BRANCH/Core%20-%20Score/src/org/jfugue/score/SingleStave.java</file>
+        <file>file:/C:/Users/Geertjan/Documents/NetBeansProjects/jfg70/NB70_PORT_BRANCH/Core%20-%20Score/src/org/jfugue/score/ScoreTopComponent.java</file>
+        <file>file:/C:/Users/Geertjan/Documents/NetBeansProjects/jfg70/NB70_PORT_BRANCH/Core%20-%20Score/src/org/jfugue/score/Stave.java</file>
+        <file>file:/C:/Users/Geertjan/Documents/NetBeansProjects/jfg70/NB70_PORT_BRANCH/Core%20-%20Score/nbproject/project.xml</file>
+    </open-files>
+</project-private>

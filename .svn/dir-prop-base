@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 34
+.DS_Store
+build
+dist
+nb65platform
+
+K 13
+svn:mergeinfo
+V 14
+/trunk:214-270
+END

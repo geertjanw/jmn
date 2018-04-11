@@ -1,0 +1,32 @@
+/*
+ * MusicianUtilities.java
+ *
+ * Created on April 15, 2006, 9:36 PM
+ *
+ * To change this template, choose Tools | Template Manager
+ * and open the template in the editor.
+ */
+
+package org.netbeans.modules.musician;
+
+/**
+ *
+ * @author Geertjan Wielenga
+ */
+public class MusicianUtilities {
+    
+    private static int myUniId;
+    
+    /** Creates a new instance of MusicianUtilities */
+    public MusicianUtilities() {
+    }
+    
+    public static int getId(int uniId) {
+        return myUniId;
+    }
+    
+    public static void setId(int uniId) {
+        myUniId = uniId;
+    }
+    
+}
