@@ -36,15 +36,17 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/suite.properties</file>
             <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/manifest.mf</file>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/platform.properties</file>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/build.xml</file>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/private/platform-private.properties</file>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/project.properties</file>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/project.xml</file>
-            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/private/private.properties</file>
             <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/src/org/netbeans/modules/musician/actions/PlayAllAction.java</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/project.xml</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/suite.properties</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/private/private.properties</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/src/org/netbeans/modules/musician/RootFrame.java</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/private/platform-private.properties</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/build.xml</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/platform.properties</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/src/org/netbeans/modules/musician/Installer.java</file>
+            <file>file:/Users/geertjanwielenga/jmn/jmn/Musician/nbproject/project.properties</file>
         </group>
     </open-files>
 </project-private>

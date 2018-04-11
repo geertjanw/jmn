@@ -19,8 +19,8 @@ public class Installer extends ModuleInstall {
         } catch (UnsupportedLookAndFeelException ex) {
             Exceptions.printStackTrace(ex);
         }
-        UIManager.put("NbMainWindow.showCustomBackground", Boolean.TRUE);
-        RootFrame.init();
+//        UIManager.put("NbMainWindow.showCustomBackground", Boolean.TRUE);
+//        RootFrame.init();
     }
 
 }
