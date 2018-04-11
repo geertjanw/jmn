@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<fontscolors>
-    <fontcolor name="midi-instrument" foreColor="blue" default="default"/>
-    <fontcolor name="midi-note" foreColor="magenta" default="default"/>
-</fontscolors>

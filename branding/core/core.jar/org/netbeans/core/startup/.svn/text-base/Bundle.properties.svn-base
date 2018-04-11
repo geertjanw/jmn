@@ -1,8 +1,0 @@
-currentVersion=Music NotePad {0}
-LBL_splash_window_title=Starting Music NotePad
-SPLASH_HEIGHT=286
-SPLASH_WIDTH=500
-SplashProgressBarBounds=0,260,481,8
-SplashRunningTextBounds=224,11,263,11
-SplashRunningTextColor=0x0
-SplashRunningTextFontSize=12

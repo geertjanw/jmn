@@ -1,5 +1,0 @@
-cluster.path=\
-    ${nbplatform.active.dir}/platform
-
-nbplatform.active=default
-suite.dir=${basedir}

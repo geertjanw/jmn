@@ -1,7 +1,0 @@
-run.args.extra=--laf Nimbus
-cluster.path=\
-    ${nbplatform.active.dir}/platform
-
-disabled.modules=
-nbplatform.active=default
-suite.dir=${basedir}

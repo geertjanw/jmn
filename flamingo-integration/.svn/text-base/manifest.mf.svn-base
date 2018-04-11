@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-OpenIDE-Module: com.pinkmatter.modules.flamingo
-OpenIDE-Module-Install: com/pinkmatter/modules/flamingo/Installer.class
-OpenIDE-Module-Localizing-Bundle: com/pinkmatter/modules/flamingo/Bundle.properties
-OpenIDE-Module-Specification-Version: 0.1
-
