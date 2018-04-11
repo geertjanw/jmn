@@ -1,2 +1,2 @@
-# JFugue-Music-Notepad
+# JFugue Music Notepad
 Java desktop application for music composition.
