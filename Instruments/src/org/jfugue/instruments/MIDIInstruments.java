@@ -20,7 +20,7 @@ import org.openide.nodes.Node;
  *
  * @author Pierre Matthijs
  */
-public class MIDIInstruments  extends Children.Keys {
+public class MIDIInstruments  extends Children.Keys<Instrument> {
     
     private InstrumentCategory instrumentCategory;
     
@@ -162,10 +162,9 @@ public class MIDIInstruments  extends Children.Keys {
         this.instrumentCategory = instrumentCategory;
     }
     
-    protected Node[] createNodes(Object key) {
-        Instrument obj = (Instrument)key;
-        InstrumentNode result = new InstrumentNode(obj);
-        result.setDisplayName(obj.getDescription());
+    protected Node[] createNodes(Instrument key) {
+        InstrumentNode result = new InstrumentNode(key);
+        result.setDisplayName(key.getDescription());
         return new Node[] { result };
     }
     

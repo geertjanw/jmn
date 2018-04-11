@@ -12,6 +12,7 @@ package org.jfugue.instruments;
 import java.awt.Image;
 import org.openide.nodes.AbstractNode;
 import org.openide.nodes.Children;
+import org.openide.util.ImageUtilities;
 import org.openide.util.Utilities;
 
 /**
@@ -26,11 +27,11 @@ public class RootNode extends AbstractNode {
     }
     
     public Image getIcon(int type) {
-        return Utilities.loadImage("org/netbeans/modules/musician/resources/right-rectangle.png");
+        return ImageUtilities.loadImage("org/netbeans/modules/musician/resources/right-rectangle.png");
     }
 
     public Image getOpenedIcon(int type) {
-        return Utilities.loadImage("org/netbeans/modules/musician/resources/down-rectangle.png");
+        return ImageUtilities.loadImage("org/netbeans/modules/musician/resources/down-rectangle.png");
     }
     
 }

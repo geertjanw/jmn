@@ -12,6 +12,7 @@ import org.openide.explorer.ExplorerManager;
 import org.openide.explorer.ExplorerUtils;
 import org.openide.explorer.view.BeanTreeView;
 import org.openide.nodes.Node;
+import org.openide.util.ImageUtilities;
 import org.openide.util.Lookup;
 import org.openide.util.LookupEvent;
 import org.openide.util.LookupListener;
@@ -35,13 +36,13 @@ public final class InstrumentsTopComponent extends TopComponent implements Explo
     public static final String ICON_PATH = "org/netbeans/modules/musician/resources/java-note-18.png";
     private static final String PREFERRED_ID = "InstrumentsTopComponent";
     private static Instrument instrument;
-    private Lookup.Result result = null;
+    private Lookup.Result<Instrument> result = null;
 
     private InstrumentsTopComponent() {
         initComponents();
         setName(NbBundle.getMessage(InstrumentsTopComponent.class, "CTL_InstrumentsTopComponent"));
         setToolTipText(NbBundle.getMessage(InstrumentsTopComponent.class, "HINT_InstrumentsTopComponent"));
-        setIcon(Utilities.loadImage(ICON_PATH, true));
+        setIcon(ImageUtilities.loadImage(ICON_PATH, true));
 
         associateLookup(ExplorerUtils.createLookup(explorerManager, getActionMap()));
         explorerManager.setRootContext(new RootNode(new MIDIInstrumentCategories()));
