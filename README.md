@@ -5,7 +5,6 @@ Java desktop application for music composition based on Apache NetBeans (incubat
     <img style="border:1px solid black" src="/www/jmn.png" />
 </td></tr></table>
 
-| Pic             |  Description |
 :-------------------------:|:-------------------------:
-![](/www/jmn.png)  |  ![](/www/jmn.png)
+![](/www/jmn.png)  |  Hello World
 
