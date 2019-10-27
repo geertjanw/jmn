@@ -15,3 +15,9 @@ Java desktop application for music composition based on Apache NetBeans (incubat
       </td>
     </tr>
 </table>
+
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+![](/www/jmn.png)  |  ![](/www/jmn.png)
+![](/www/jmn.png)  |  ![](/www/jmn.png)
+![](/www/jmn.png)  |  ![](/www/jmn.png)
