@@ -7,5 +7,5 @@ Java desktop application for music composition based on Apache NetBeans.
 
 |              |   |
 :-------------------------:|:-------------------------:
-![](www/jmn.png)  |  
+![](www/jmn.png)  
 
