@@ -5,7 +5,3 @@ Java desktop application for music composition based on Apache NetBeans.
     <img style="border:1px solid black" src="/www/jmn.png" />
 </td></tr></table>
 
-|              |   |
-:-------------------------:|:-------------------------:
-![](www/jmn.png)  
-
