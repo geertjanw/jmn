@@ -14,7 +14,7 @@ jobs:
     - run: java -version
     - uses: actions/setup-java@v2
       with:
-        distribution: 'foo'
+        distribution: 'adopt'
         java-version: ${{matrix.java}}  
     - run: java -version
    
