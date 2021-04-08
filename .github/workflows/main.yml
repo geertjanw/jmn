@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
+        distribution: ['foo']
         java: [6, 7, 8, 8.0.144, 11, 15, 16-ea]
     steps:
     - uses: actions/checkout@v2
