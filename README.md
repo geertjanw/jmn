@@ -2,7 +2,7 @@
 [![Java CI](https://github.com/hdrhistogram/hdrhistogram/workflows/Java%20CI/badge.svg)](https://github.com/geertjanw/jmn/actions)
 <img align="right" width="120" height="120" src="https://github.com/geertjanw/jmn/blob/master/www/WorksWithOpenJDK1.png">
 
-Java desktop application for music composition based on Apache NetBeans.
+Modulerized Java desktop application for music composition based on Apache NetBeans, with music provided by the JFugue API.
 
 <table><tr><td>
     <img style="border:1px solid black" src="/www/jmn.png" />
