@@ -1,6 +1,5 @@
 # JFugue Music Notepad
 [![Java CI](https://github.com/hdrhistogram/hdrhistogram/workflows/Java%20CI/badge.svg)](https://github.com/geertjanw/jmn/actions)
-<br/>
 <img align="right" width="120" height="120" src="https://github.com/geertjanw/jmn/blob/master/www/WorksWithOpenJDK1.png">
 
 Java desktop application for music composition based on Apache NetBeans.
