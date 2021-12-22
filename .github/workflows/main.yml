@@ -8,13 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        java: [8.0.144, 11.0.12, 17.0.1]
+        java: [8.0.144, 11, 11.0.12, 17.0.1]
     steps:
     - uses: actions/checkout@v2
     - run: java -version
     - uses: foojayio/setup-java@disco
       with:
-        distro: 'zulu'
+        distro: 'liberica'
         java-version: ${{matrix.java}}  
     - run: java -version
    
