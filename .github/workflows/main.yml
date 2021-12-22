@@ -10,7 +10,7 @@ jobs:
       matrix:
         java: [6, 7, 8, 8.0.144, 11, 15, 16, 17-ea]
     steps:
-    - uses: foojayio/setup-java@disco
+    - uses: actions/checkout@v2
     - run: java -version
     - uses: foojayio/setup-java@disco
       with:
