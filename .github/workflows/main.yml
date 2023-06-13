@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        java: [8.092, 11.0.1, 11.0.12, 17.0.1, 17.0.2]
+        java: [8.092, 11.0.1, 11.0.12, 17.0.1, 17.0.3]
     steps:
     - uses: actions/checkout@v2
     - run: java -version
