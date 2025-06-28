@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6e7f6f43-596d-4f9f-9c1e-7804b028131a",
+    "apps": [
+      "@royalaholddelhaize/gambit-main"
+    ],
+    "type": "Feature",
+    "description": "Implemented a release notes feature to keep you informed about the latest updates and changes in the Gambit application.",
+    "timestamp": "2025-06-03T11:36:32.839Z"
+  },
+  {
+    "id": "6f23410f-1d7f-420c-95c8-ba0e7a2a9e09",
+    "apps": [
+      "@royalaholddelhaize/offline-media"
+    ],
+    "type": "Improvement",
+    "description": "For Booking calendar > offline media instore: Moved the campaignId to the front in the campaign calender",
+    "timestamp": "2025-06-05T11:20:41.850Z"
+  }
+]
